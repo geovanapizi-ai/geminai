@@ -1,0 +1,2 @@
+# geminai
+novo blog
